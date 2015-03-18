@@ -11,6 +11,7 @@ Topics covered:
 * slowly changing dimensions
 * star and snowflake schema
 * ETL basics: ocnforming dimension labels, transformations, mappings
+* metadata based mappings
 * master data management
 * data quality and data quality indicators
 * ETL job management
